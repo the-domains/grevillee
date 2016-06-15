@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Be Absolute]]></title>
+        <description><![CDATA[Be Absolute]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 16:30:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iceland - a Photographer's paradise - Luminous Landscape]]></title>
+            <description><![CDATA[<article><h1>Iceland - a Photographer's paradise - Luminous Landscape</h1><p>This article and portfolio are intended to provide not a travel guide, but rather an inspiration for landscape and nature photographers seeking a new and challenging location to explore. Iceland is without any doubt the most visually exciting place that I have ever photographed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06f64933bd99e244d00fb2e8740ea849/noop.jpg?input=https%3A%2F%2Fluminous-landscape.com%2Fwp-content%2Fuploads%2F2009%2F06%2Fringed-cloud.jpg"></article>]]></description>
+            <link>https://luminous-landscape.com/iceland-a-photographers-paradise/</link>
+            <guid isPermaLink="false">08d22684-d3ce-45d7-898b-de37d8b5de56</guid>
+            <pubDate>Wed, 15 Jun 2016 16:30:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
