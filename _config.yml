@@ -1,4 +1,3 @@
-layout_spectrum: 0.30738193169236183
 typography_spectrum: 0.19990834896452725
 color:
   brandStrength: 0.378859932301566
@@ -11,4 +10,17 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+opengraph:
+  type: Post
+  appId: ''
+layout_spectrum: 0.30738193169236183
+author:
+  name: Greville Edwards
+  email: grev@me.com
+  url: GeneralEclectic.eu
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2863b65-79d3-4e47-8503-51c88d1509ef.png
 name: Grevillee
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed3d7e63-9754-4894-91e0-633c45c39584.png
+title: Be Absolute
