@@ -1,19 +1,19 @@
-typography_spectrum: 0.19990834896452725
+typography_spectrum: 0.5718253303784877
 color:
-  brandStrength: 0.378859932301566
-  lightness: 0.6342250308953226
-  saturation: 0.024275813018903136
-  rhythmicContrast: 0.6088779687415808
+  brandStrength: 0.1294154548086226
+  lightness: 0.4158430111128837
+  saturation: 0.4959292209241539
+  rhythmicContrast: 0.658436275087297
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 opengraph:
   type: Post
   appId: ''
-layout_spectrum: 0.30738193169236183
+layout_spectrum: 0.5763491706456989
 author:
   name: Greville Edwards
   email: grev@me.com
