@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Be Absolute]]></title>
+        <description><![CDATA[Be Absolute]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 24 Jun 2016 16:47:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magic Fountain]]></title>
+            <description><![CDATA[<article><h1>Magic Fountain</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f501df54d86d46ecf92d68c9a033272/croprotate.jpg?cropheight=3456&cropwidth=2305&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc07b322f-eff6-4bc9-b2d1-d08f4a60461a.jpg&x=0&y=0"></article>]]></description>
+            <link>undefinedmagic-fountain/index.html</link>
+            <guid isPermaLink="false">65b4db97-8b5d-4941-8afb-60a13a427f07</guid>
+            <pubDate>Fri, 24 Jun 2016 16:47:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
