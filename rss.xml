@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Be Absolute]]></title>
         <description><![CDATA[Be Absolute]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grevillee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 16:47:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Jun 2016 16:48:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grevillee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quick beer on the rambla de raval - old haunts]]></title>
+            <description><![CDATA[<article><h1>Quick beer on the rambla de raval - old haunts</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a064a34bee3e716161db926640bb10af/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fe15%2F11137797_1589945594609286_1029002753_n.jpg%3Fig_cache_key%3DOTY1ODk0ODMyNDUxNjA5NDcz.2"></article>]]></description>
+            <link>https://www.instagram.com/p/1njDuKqeOB/</link>
+            <guid isPermaLink="false">ceba0317-e50a-4dd6-86b8-363f328e9455</guid>
+            <pubDate>Fri, 24 Jun 2016 16:48:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magic Fountain]]></title>
             <description><![CDATA[<article><h1>Magic Fountain</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f501df54d86d46ecf92d68c9a033272/croprotate.jpg?cropheight=3456&cropwidth=2305&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc07b322f-eff6-4bc9-b2d1-d08f4a60461a.jpg&x=0&y=0"></article>]]></description>
-            <link>undefinedmagic-fountain/index.html</link>
+            <link>https://thegrid.ai/grevillee/magic-fountain/index.html</link>
             <guid isPermaLink="false">65b4db97-8b5d-4941-8afb-60a13a427f07</guid>
             <pubDate>Fri, 24 Jun 2016 16:47:55 GMT</pubDate>
         </item>
